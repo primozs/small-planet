@@ -1,0 +1,14 @@
+{
+  "name": "small-planet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Primoz Susa",
+  "license": "STENAR",
+  "private": true,
+  "scripts": {
+    "serve": "serve -p 4500 public"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}

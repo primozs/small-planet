@@ -1,0 +1,3 @@
+# Small planet
+
+Offline map
